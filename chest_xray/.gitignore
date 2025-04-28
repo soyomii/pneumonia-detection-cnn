@@ -1,9 +1,0 @@
-# 데이터 폴더는 제외
-chest_xray/train/
-chest_xray/test/
-chest_xray/val/
-
-# 캐시, 체크포인트, 모델 제외
-__pycache__/
-*.h5
-*.ipynb_checkpoints/
