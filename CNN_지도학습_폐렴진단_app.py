@@ -111,7 +111,9 @@ for i, fname in enumerate(img_files):
     plt.axis('off')
 
 plt.tight_layout()
+plt.savefig("cnn_training_results.png")
 plt.show()
+
 
 
 
