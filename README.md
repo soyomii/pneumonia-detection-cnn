@@ -66,11 +66,13 @@ AI를 활용한 흉부 X-ray 영상 기반 폐렴 진단 모델 구현 프로젝
 
 모델의 학습 성능과 이상 탐지 결과를 시각화하였습니다.
 
-### ✅ 학습 정확도 및 손실 시각화
-![학습 정확도 및 손실 시각화](images/학습정확도 및 손실 시각도.png)
+### ✅ 학습 정확도 및 손실 시각화  
+![학습 정확도 및 손실 시각화](https://github.com/soyomii/pneumonia-detection-cnn/blob/main/images/%ED%95%99%EC%8A%B5%EC%A0%95%ED%99%95%EB%8F%84%20%EB%B0%8F%20%EC%86%90%EC%8B%A4%20%EC%8B%9C%EA%B0%81%EB%8F%84.png?raw=true)
 
-### 🧪 실제 예측 결과 예시
-![실제 예측 결과 예시](images/실제 예측 결과 예시.png)
+### 🧪 실제 예측 결과 예시  
+![실제 예측 결과 예시](https://github.com/soyomii/pneumonia-detection-cnn/blob/main/images/%EC%8B%A4%EC%A0%9C%20%EC%98%88%EC%B8%A1%20%EA%B2%B0%EA%B3%BC%20%EC%98%88%EC%8B%9C.png?raw=true)
+
+
 
 ---
 
@@ -90,10 +92,14 @@ AI를 활용한 흉부 X-ray 영상 기반 폐렴 진단 모델 구현 프로젝
 
 ---
 
+
 📁 `images/` 폴더에 학습 시각화 결과 포함 (ex: 정확도 그래프, 예측 결과 등)
+
 
 ---
 
 📌 본 프로젝트는 개인 포트폴리오 목적이며, 의료 진단 도구로 사용되지 않습니다.
+
+
 =======
 
